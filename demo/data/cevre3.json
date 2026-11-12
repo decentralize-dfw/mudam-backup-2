@@ -1,0 +1,184 @@
+{
+  "name": "Context 3",
+  "revision": "2026-11-09-baked-demo",
+  "source": "R588 authored site with restored museum roof openings and baked material appearance",
+  "compression": "Draco geometry and embedded WebP textures",
+  "files": {
+    "near": {
+      "bytes": 7085380,
+      "sha256": "b212ab7e3c0f21947adde14b2da71305505421496c315899c505f24d40b2e71f",
+      "triangles": 408679,
+      "bounds": {
+        "min": [
+          -500,
+          -78.04438781738281,
+          -650
+        ],
+        "max": [
+          650.00048828125,
+          16.32353973388672,
+          450.00048828125
+        ]
+      },
+      "textures": 15,
+      "file": "model/cevre3/authored-near.glb?v=b212ab7e3c0f",
+      "reviewOnly": true,
+      "bake": "Static daylight and material appearance",
+      "primitives": 48,
+      "tris": 408679,
+      "prims": 48
+    },
+    "far": {
+      "file": "model/cevre3/authored-far.glb?v=3aba8d557b2a",
+      "bytes": 613104,
+      "sha256": "3aba8d557b2a4a6664322813d1e2bd3e9079ee5af811812ac23cfbeb9c4502dd",
+      "sourceSha256": "9c8e77d0e79020bd7160c03f6ae6459e5e2d31e1519bf47715b131dd955225df",
+      "triangles": 82021,
+      "sourceTriangles": 82021,
+      "degenerateRemoved": 0,
+      "bounds": {
+        "min": [
+          134.42857360839844,
+          7.304701328277588,
+          -237.2857208251953
+        ],
+        "max": [
+          239.64285278320312,
+          30.80748176574707,
+          -111.07141876220703
+        ]
+      },
+      "boundsError": 7.62939453125e-06,
+      "textures": 0,
+      "instanceTransformsPreserved": true,
+      "instances": [],
+      "primitives": 5,
+      "bake": "Static daylight and material appearance"
+    },
+    "melia": {
+      "file": "model/cevre3/authored-melia.glb?v=aec173515fa0",
+      "bytes": 255376,
+      "sha256": "aec173515fa01cc2d47b4a30eaa1ab06d1a8bdde81caf35a8d524c65d8f6e066",
+      "sourceSha256": "1fb395eacd1575aa473f60f9d1372dbebc4f096a5d9458e5ced43e7fb46842e7",
+      "triangles": 32144,
+      "sourceTriangles": 32144,
+      "degenerateRemoved": 0,
+      "bounds": {
+        "min": [
+          105.1493911743164,
+          -0.885083019733429,
+          -70.41024780273438
+        ],
+        "max": [
+          149.4720001220703,
+          33.79798126220703,
+          -26.334129333496094
+        ]
+      },
+      "boundsError": 1.9073486328125e-06,
+      "textures": 0,
+      "instanceTransformsPreserved": true,
+      "instances": [],
+      "primitives": 7,
+      "bake": "Static daylight and material appearance"
+    },
+    "schuman": {
+      "file": "model/cevre3/authored-schuman.glb?v=5d326c2dc01b",
+      "bytes": 2252456,
+      "sha256": "5d326c2dc01bbaafe56caab8d613cf225ae2430033644c5dfdc9a3eb0ecd601c",
+      "sourceSha256": "4b0238251dfb07bd1885e63f4105fcd5f8030e1dda06a9683106bb1ae12af0ba",
+      "triangles": 285203,
+      "sourceTriangles": 285203,
+      "degenerateRemoved": 0,
+      "bounds": {
+        "min": [
+          54.418392181396484,
+          0.7334136962890625,
+          -194.1062469482422
+        ],
+        "max": [
+          126.22212219238281,
+          37.615692138671875,
+          -89.2112045288086
+        ]
+      },
+      "boundsError": 7.62939453125e-06,
+      "textures": 0,
+      "instanceTransformsPreserved": true,
+      "instances": [],
+      "primitives": 4,
+      "bake": "Static daylight and material appearance"
+    },
+    "vegetation": {
+      "file": "model/cevre3/authored-vegetation.glb?v=6ee45e66be8f",
+      "bytes": 315752,
+      "sha256": "6ee45e66be8f504eba39b539ccfd10a7cd1def001f02775d12e2dcbbcb516a7b",
+      "triangles": 7368,
+      "bounds": {
+        "min": [
+          -0.6124610900878906,
+          -0.0006836694083176553,
+          -0.5949069261550903
+        ],
+        "max": [
+          0.6344858407974243,
+          1.161109447479248,
+          0.5961781740188599
+        ]
+      },
+      "textures": 1,
+      "reviewOnly": true,
+      "primitives": 24,
+      "bake": "Static daylight and material appearance"
+    },
+    "district": {
+      "file": "model/cevre3/authored-district.glb?v=b6a3b8ff8caa",
+      "bytes": 7485192,
+      "sha256": "b6a3b8ff8caa9e75dfa0daa9e8f428978d82ec260749b15422d68ed606ffc9f4",
+      "triangles": 525369,
+      "bounds": {
+        "min": [
+          -627.9898071289062,
+          -82.54031372070312,
+          -800
+        ],
+        "max": [
+          800,
+          99.01801300048828,
+          600
+        ]
+      },
+      "textures": 10,
+      "reviewOnly": true,
+      "primitives": 62,
+      "bake": "Static daylight and material appearance"
+    },
+    "building": {
+      "file": "model/cevre3/building.glb?v=7e239dbd51a9",
+      "bytes": 6345468,
+      "prims": 96,
+      "tris": 902949,
+      "textures": 10,
+      "bounds": {
+        "min": [
+          -42.6,
+          -13.4,
+          -44.5
+        ],
+        "max": [
+          38.5,
+          30.4,
+          50.1
+        ]
+      },
+      "sha256": "7e239dbd51a97ea404e41b4bf58a130f3ffd45365b5a54124242f08084bf10dc",
+      "bake": "Static daylight and material appearance",
+      "reviewOnly": true,
+      "triangles": 902949,
+      "primitives": 96
+    }
+  },
+  "reviewOnly": true,
+  "fullScopeAccepted": false,
+  "pieces": "data/pieces-cevre3.json?v=837132a0c949"
+}

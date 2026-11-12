@@ -1,0 +1,26 @@
+{
+  "1": {
+    "file": "model/interior/context1.glb?v=6347b54b5ffe",
+    "bytes": 2273396,
+    "sha256": "6347b54b5ffeaae5a8c2c0eb31a0043c080f2b8682881d3f24afef0461894c1b",
+    "sourceTextureCount": 13,
+    "sourceTexturesPreserved": true,
+    "normalMappedMaterials": 24
+  },
+  "2": {
+    "file": "model/interior/context2.glb?v=28647389c28a",
+    "bytes": 3124784,
+    "sha256": "28647389c28a2fd10b84e05c7385ed5e27942c30119bf83acebd5a4fbecda0e2",
+    "sourceTextureCount": 13,
+    "sourceTexturesPreserved": true,
+    "normalMappedMaterials": 7
+  },
+  "3": {
+    "file": "model/interior/context3.glb?v=e5a3a29dc01f",
+    "bytes": 8498648,
+    "sha256": "e5a3a29dc01f7408edb5bef03dedca7cd41055bcd125058568dc533c98f502e5",
+    "sourceTextureCount": 16,
+    "sourceTexturesPreserved": true,
+    "normalMappedMaterials": 9
+  }
+}

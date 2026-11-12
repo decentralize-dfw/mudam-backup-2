@@ -1,0 +1,263 @@
+{
+  "revision": "2026-11-09-pavilion-night",
+  "desktop": {
+    "model/building.glb": {
+      "bytes": 3800696,
+      "sha256": "a4a75bc7c506a9c123584a01a55b1ab69ed1a9c48c7ad27883d0e28064889003",
+      "triangles": 627879,
+      "primitives": 101,
+      "textures": 8,
+      "file": "model/building.glb?v=a4a75bc7c506"
+    },
+    "model/cevre2/building.glb": {
+      "bytes": 5317408,
+      "sha256": "ff9a8b44af92f06d9613a40aeb6b8cc8785790bbe3f8c11048c8ae61ce8ae5a8",
+      "triangles": 901982,
+      "primitives": 83,
+      "textures": 8,
+      "file": "model/cevre2/building.glb?v=ff9a8b44af92"
+    },
+    "model/cevre2/far.glb": {
+      "bytes": 22431872,
+      "sha256": "34fae69a662e260aa2ee0c2bc1032ab7bea9fc0ccf4b20cf9d46c11ab6454554",
+      "triangles": 1369204,
+      "primitives": 687,
+      "textures": 687,
+      "file": "model/cevre2/far.glb?v=34fae69a662e"
+    },
+    "model/cevre2/near.glb": {
+      "bytes": 19456788,
+      "sha256": "4f4c702211bbea85af9ef552fc8dced97946f51a70b4ae304241d4127d63c7bf",
+      "triangles": 982417,
+      "primitives": 162,
+      "textures": 162,
+      "file": "model/cevre2/near.glb?v=4f4c702211bb"
+    },
+    "model/cevre2/site.glb": {
+      "bytes": 176540,
+      "sha256": "cb790b7a3a51154c7e12a46c66e6822d8a576acd3698453b5d75f9b564ea6184",
+      "triangles": 7674,
+      "primitives": 15,
+      "textures": 5,
+      "file": "model/cevre2/site.glb?v=cb790b7a3a51"
+    },
+    "model/cevre3/authored-district.glb": {
+      "bytes": 7485192,
+      "sha256": "b6a3b8ff8caa9e75dfa0daa9e8f428978d82ec260749b15422d68ed606ffc9f4",
+      "triangles": 525369,
+      "primitives": 62,
+      "textures": 10,
+      "file": "model/cevre3/authored-district.glb?v=b6a3b8ff8caa"
+    },
+    "model/cevre3/authored-far.glb": {
+      "bytes": 613104,
+      "sha256": "3aba8d557b2a4a6664322813d1e2bd3e9079ee5af811812ac23cfbeb9c4502dd",
+      "triangles": 82021,
+      "primitives": 5,
+      "textures": 0,
+      "file": "model/cevre3/authored-far.glb?v=3aba8d557b2a"
+    },
+    "model/cevre3/authored-melia.glb": {
+      "bytes": 255376,
+      "sha256": "aec173515fa01cc2d47b4a30eaa1ab06d1a8bdde81caf35a8d524c65d8f6e066",
+      "triangles": 32144,
+      "primitives": 7,
+      "textures": 0,
+      "file": "model/cevre3/authored-melia.glb?v=aec173515fa0"
+    },
+    "model/cevre3/authored-near.glb": {
+      "bytes": 7085380,
+      "sha256": "b212ab7e3c0f21947adde14b2da71305505421496c315899c505f24d40b2e71f",
+      "triangles": 408679,
+      "primitives": 48,
+      "textures": 15,
+      "file": "model/cevre3/authored-near.glb?v=b212ab7e3c0f"
+    },
+    "model/cevre3/authored-schuman.glb": {
+      "bytes": 2252456,
+      "sha256": "5d326c2dc01bbaafe56caab8d613cf225ae2430033644c5dfdc9a3eb0ecd601c",
+      "triangles": 285203,
+      "primitives": 4,
+      "textures": 0,
+      "file": "model/cevre3/authored-schuman.glb?v=5d326c2dc01b"
+    },
+    "model/cevre3/authored-vegetation.glb": {
+      "bytes": 315752,
+      "sha256": "6ee45e66be8f504eba39b539ccfd10a7cd1def001f02775d12e2dcbbcb516a7b",
+      "triangles": 7368,
+      "primitives": 24,
+      "textures": 1,
+      "file": "model/cevre3/authored-vegetation.glb?v=6ee45e66be8f"
+    },
+    "model/cevre3/building.glb": {
+      "bytes": 6345468,
+      "sha256": "7e239dbd51a97ea404e41b4bf58a130f3ffd45365b5a54124242f08084bf10dc",
+      "triangles": 902949,
+      "primitives": 96,
+      "textures": 10,
+      "file": "model/cevre3/building.glb?v=7e239dbd51a9"
+    },
+    "model/context-map.glb": {
+      "bytes": 177072,
+      "sha256": "c2c6927fb03076d506d93571f25b6b4a1bc9b016c341848764e98ea324311cc3",
+      "triangles": 1121,
+      "primitives": 2,
+      "textures": 1,
+      "file": "model/context-map.glb?v=c2c6927fb030"
+    },
+    "model/forecourt.glb": {
+      "bytes": 136596,
+      "sha256": "e5173d057886c75fe4aeb40c10c07f620414622cbbb671ec592a94d988cd3107",
+      "triangles": 5178,
+      "primitives": 1,
+      "textures": 0,
+      "file": "model/forecourt.glb?v=e5173d057886"
+    },
+    "model/site.glb": {
+      "bytes": 419028,
+      "sha256": "b2accc3cbcd2033c8a1a98e20519344c7d7168a635b8a3f5f522c9924553c224",
+      "triangles": 7188,
+      "primitives": 16,
+      "textures": 7,
+      "file": "model/site.glb?v=b2accc3cbcd2"
+    },
+    "model/trees.glb": {
+      "bytes": 456372,
+      "sha256": "f100e27c668cc7d7a995d76d9dceb5b0aad5ac041ee75768372dbac4d898f6a3",
+      "triangles": 42120,
+      "primitives": 2,
+      "textures": 0,
+      "file": "model/trees.glb?v=f100e27c668c"
+    }
+  },
+  "mobile": {
+    "model/building.glb": {
+      "bytes": 2381164,
+      "sha256": "1c86ba4a1ac0e772965b51b4a396ca9d1c62caab982810a98ee434c4389437f3",
+      "triangles": 397736,
+      "primitives": 101,
+      "textures": 8,
+      "file": "model/mobile/building.glb?v=1c86ba4a1ac0"
+    },
+    "model/cevre2/building.glb": {
+      "bytes": 2973988,
+      "sha256": "8b8b374c06e7c8752515f25965f15715d995c80115769e14a53526bbf788e7a7",
+      "triangles": 487364,
+      "primitives": 83,
+      "textures": 8,
+      "file": "model/mobile/cevre2/building.glb?v=8b8b374c06e7"
+    },
+    "model/cevre2/far.glb": {
+      "bytes": 6349572,
+      "sha256": "f374c4a62020223d1262a1dcbb561a26493139c88d89df22f8ef5ab803559bcc",
+      "triangles": 605276,
+      "primitives": 1,
+      "textures": 1,
+      "file": "model/mobile/cevre2/far.glb?v=f374c4a62020"
+    },
+    "model/cevre2/near.glb": {
+      "bytes": 5088348,
+      "sha256": "d8c26869fd463a63248fcdb728bc6b0c693b796ba92f745d4890f263e942ba2d",
+      "triangles": 478194,
+      "primitives": 1,
+      "textures": 1,
+      "file": "model/mobile/cevre2/near.glb?v=d8c26869fd46"
+    },
+    "model/cevre2/site.glb": {
+      "bytes": 110248,
+      "sha256": "39291c97756075acebe5a732a156dc2859827d27bbabaaeaad5bea89b2787ec0",
+      "triangles": 6915,
+      "primitives": 15,
+      "textures": 5,
+      "file": "model/mobile/cevre2/site.glb?v=39291c977560"
+    },
+    "model/cevre3/authored-district.glb": {
+      "bytes": 3248804,
+      "sha256": "e4f928bf08c79bcd1db891b3850fe57021944609eb3d033bc600c7ebdf2e25ff",
+      "triangles": 367408,
+      "primitives": 62,
+      "textures": 10,
+      "file": "model/mobile/cevre3/authored-district.glb?v=e4f928bf08c7"
+    },
+    "model/cevre3/authored-far.glb": {
+      "bytes": 357968,
+      "sha256": "57e07b30c7da60fa82ee7108a5237dae87ed9fbf3391b6546e5a548661bc9ef8",
+      "triangles": 47875,
+      "primitives": 5,
+      "textures": 0,
+      "file": "model/mobile/cevre3/authored-far.glb?v=57e07b30c7da"
+    },
+    "model/cevre3/authored-melia.glb": {
+      "bytes": 195776,
+      "sha256": "2e6703230e525a78f06975525e3b2ab0e114022dec0cf65dcf736415d770c1c3",
+      "triangles": 25825,
+      "primitives": 7,
+      "textures": 0,
+      "file": "model/mobile/cevre3/authored-melia.glb?v=2e6703230e52"
+    },
+    "model/cevre3/authored-near.glb": {
+      "bytes": 3665376,
+      "sha256": "2a443b22d97d5bd51dc805136d95546e5dd485dd8a1479970829a52855c3e68e",
+      "triangles": 255433,
+      "primitives": 44,
+      "textures": 15,
+      "file": "model/mobile/cevre3/authored-near.glb?v=2a443b22d97d"
+    },
+    "model/cevre3/authored-schuman.glb": {
+      "bytes": 1690128,
+      "sha256": "e9afc77c5825490ea5f95fc94cfbf286f84cf8720ee583ba078ad1076aa2f12b",
+      "triangles": 251291,
+      "primitives": 4,
+      "textures": 0,
+      "file": "model/mobile/cevre3/authored-schuman.glb?v=e9afc77c5825"
+    },
+    "model/cevre3/authored-vegetation.glb": {
+      "bytes": 528580,
+      "sha256": "16fc7aa5384e39f96cba860310f4ca6d9bee14b89b80e7124ba50e3ad836f923",
+      "triangles": 2542,
+      "primitives": 24,
+      "textures": 2,
+      "file": "model/mobile/cevre3/authored-vegetation.glb?v=16fc7aa5384e"
+    },
+    "model/cevre3/building.glb": {
+      "bytes": 3456984,
+      "sha256": "3a174b73b8d9caceaf3774997df4ceec94517407b95366e72bb55f208f88b2ca",
+      "triangles": 489094,
+      "primitives": 96,
+      "textures": 10,
+      "file": "model/mobile/cevre3/building.glb?v=3a174b73b8d9"
+    },
+    "model/context-map.glb": {
+      "bytes": 67920,
+      "sha256": "0ac1213b63aab8457562969bdd762895b5350abf1872c413defd87de0d06732c",
+      "triangles": 1103,
+      "primitives": 2,
+      "textures": 1,
+      "file": "model/mobile/context-map.glb?v=0ac1213b63aa"
+    },
+    "model/forecourt.glb": {
+      "bytes": 107732,
+      "sha256": "3e8db385cdf236aec3c26f526d92a2a82ab11d15fca5d76cd9d482787ac957af",
+      "triangles": 5132,
+      "primitives": 1,
+      "textures": 0,
+      "file": "model/mobile/forecourt.glb?v=3e8db385cdf2"
+    },
+    "model/site.glb": {
+      "bytes": 133480,
+      "sha256": "7963088677a250e4045be4f63272f89b24ba436370207d6ff124ead7c2ba76bf",
+      "triangles": 6691,
+      "primitives": 16,
+      "textures": 7,
+      "file": "model/mobile/site.glb?v=7963088677a2"
+    },
+    "model/trees.glb": {
+      "bytes": 105448,
+      "sha256": "665cd98589c3f0abf5f1f5d66087dc1c13c2ad19e7574c41602ba1b7157192ed",
+      "triangles": 14188,
+      "primitives": 2,
+      "textures": 0,
+      "file": "model/mobile/trees.glb?v=665cd98589c3"
+    }
+  }
+}
